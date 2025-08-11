@@ -31,7 +31,7 @@ Text book: [Buy the textbook: Principles of Econometrics, 5th Edition (POE5), Wi
 
 By R. Carter Hill, William E. Griffiths and Guay C. Lim. POE5 is an introductory book for students in economics and finance, as well as students in accounting, agricultural economics, marketing, public policy, sociology, law and political science. It assumes that students have a formal background with courses in the principles of economics/microeconomics, and elementary mathematics and statistics.
 
-Curriculum from the textbook: Chapters 10, 11, 15, and 16. And, the Seemingly Unrelated Regression (SUR) model (Resources on SUR are available on Canvas under the "File"
+Curriculum from the textbook: Chapters 10, 11, 15, and 16. And also, the Seemingly Unrelated Regression (SUR) model (Resources on SUR are available on Canvas under the "File"
          
 
 ## Announcements
