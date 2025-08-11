@@ -1,6 +1,6 @@
 {% include navbar_open.html %}
 
-# courseplan SOK-3025 - Econometric Analysis: Choice, Causality & Panels
+# courseplan BED-3119 - Econometric Analysis: Choice, Causality & Panels
 
 | Session <img width=80/>  | Date  |To do/done before/after class... <img width=200/>  |
 |-----------------------|---------|-----------------------------------| 
@@ -10,7 +10,6 @@
 | 2| 12/08| Chapter 11 - Simultaneous Equations Models. |
 |||[R code for Ch.11](https://github.com/uit-sok-3008-H22/uit-sok-3008-H22.github.io/blob/main/Chapter%2011.R){:target='_blank_'} |
 | 3| 14/08|Seemingly Unrelated Regression (SUR) Model.  <br /> Read SUR (PDF available on Canvas) before class.   |
-|||[R code for SUR](https://github.com/uit-sok-3008-H22/uit-sok-3008-H22.github.io/blob/main/SUR.R){:target='_blank_'} <br /> <br /> [Updated SUR R Code](https://github.com/uit-sok-3008-H22/uit-sok-3008-H22.github.io/blob/main/Chapter%2011_and_%20SUR.R){:target='_blank_'}|
 |4|||
 |5|||
 |6|||
