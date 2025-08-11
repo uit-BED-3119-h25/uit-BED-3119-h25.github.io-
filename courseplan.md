@@ -9,7 +9,7 @@
 ||| Chapter 10 [R code for Ch.10](https://github.com/uit-sok-3008-H22/uit-sok-3008-H22.github.io/blob/main/chapter_10.R){:target='_blank_'}|
 | 2| 12/08| Chapter 11 - Simultaneous Equations Models. |
 |||[R code for Ch.11](https://github.com/uit-sok-3008-H22/uit-sok-3008-H22.github.io/blob/main/Chapter%2011.R){:target='_blank_'} |
-| 3| 14/08|Seemingly Unrelated Regression (SUR) Model.  <br /> Read SUR (PDF available on Canvas) before class.   |
+| 3|14/08|Seemingly Unrelated Regression (SUR) Model.  <br /> Read SUR (PDF available on Canvas) before class.   |
 |4|||
 |5|||
 |6|||
