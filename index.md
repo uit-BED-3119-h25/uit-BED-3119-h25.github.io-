@@ -23,14 +23,16 @@ See full description [here](https://fr.uit.no/utdanning/aktivt/emne/SOK-3025){:t
 
 - [Dejene, G.K.](https://uit.no/ansatte/dejene.g.kidane){:target="blank"} (subject manager)
 - [Øystein Myrland](https://uit.no/ansatte/oystein.myrland){:target="blank"} 
-
+- [Sverre Braathen Thyholdt](https://uit.no/ansatte/person?p_document_id=50553){:target="blank"}
+- [Jinghua Xie](https://www.uis.no/nb/profile/jinghua-xie){:target="blank"} 
 ## Curriculum
 
 Text book: [Buy the textbook: Principles of Econometrics, 5th Edition (POE5), Wiley - 2018. Available at the campus bookstore Akademika](https://principlesofeconometrics.com/poe5/poe5.html){:target="blank"}
 
 By R. Carter Hill, William E. Griffiths and Guay C. Lim. POE5 is an introductory book for students in economics and finance, as well as students in accounting, agricultural economics, marketing, public policy, sociology, law and political science. It assumes that students have a formal background with courses in the principles of economics/microeconomics, and elementary mathematics and statistics.
 
-Curriculum: Chapters 10, 11, 15, and 16.
+Curriculum from the textbook: Chapters 10, 11, 15, and 16. And, the Seemingly Unrelated Regression (SUR) model (Resources on SUR are available on Canvas under the "File"
+         
 
 ## Announcements
 
