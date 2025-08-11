@@ -1,4 +1,5 @@
 {% include navbar_open.html %}
+
 # courseplan BED-3119 - Econometric Analysis: Choice, Causality & Panels
 | Session <img width=80/>  | Date  |To do/done before/after class... <img width=200/>  |
 |-----------------------|---------|-----------------------------------| 
